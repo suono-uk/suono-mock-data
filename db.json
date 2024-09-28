@@ -1,0 +1,31 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "title": "hello",
+            "elements": [
+                {
+                    "id": 2,
+                    "title": "work element 2"
+                },
+                {
+                    "id": 1,
+                    "title": "work element 1"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "world",
+            "elements": [
+                {
+                    "id": 3,
+                    "title": "work element 3"
+                }
+            ]
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    }
+}
